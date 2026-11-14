@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Arun Jhade 👋
 
 Computer Science Engineering Student | AI Developer | Python Developer | Software Development
 🎓 Computer Science Engineering student at Navodaya Institute of Technology, Raichur, graduating in 2027.
